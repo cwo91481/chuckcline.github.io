@@ -37,105 +37,126 @@ h2{
 
 }
 
-#first{
-    float: left;
-    }
-#image{
-    padding: 1px:
-}
-
 #second{
-    float: center;
-    }
-
-    #third{float:left}
-
-#image1{
-    padding: 1px;
-    float:right; 
-}
-
-#image2{
-    margin: 25px;
-    float: left; 
-    position: relative;
-    left: -24px; 
-}
-#image3{
-    margin: 25px;
     float: right; 
     position: relative;
-    left: -18px; 
+    top: -72px;
+    right: 20px; 
 
+}
+#third{
+    margin-top: 250px; 
+}
+
+#fourth{
+    position: relative;
+    right:-346px; 
+    bottom: 201px; 
+     
+   float: left;
+}
+#fifth{
+    position: relative;
+     
+     
+   float: left;
+}
+
+
+#image{
+    padding: 1px;
+    float: left;
+
+}#image1{
+    padding: 1px;
+    float:right; 
+    
+}
+#image2{
+    clear:both;
+    position: relative;
+    float: left;
+       
+
+}
+#image3{
+      
+    float: left; 
+    
 
 }
 #image4{
-    margin: 25px;
-    float: left; 
-    position: relative;
-    left: -24px; 
+    clear: both;
+    position: relative; 
+    bottom: 150px; 
+
+    
+    
+     
 }
-
-
 #banner{
-    position: absolute;
-    float: left;
-    top: 298px;
-    left: 173px;
-    width: 257px; 
+   position: relative;
+    
+    top: 195px;
+    width: 243px; 
+    padding: 8px; 
     background-color: rgb(54, 163, 163);
     font-family: Georgia, 'Times New Roman', Times, serif; 
     color: white; 
     font-size: 18px; 
 }
+
 #banner2{
-        
-        position: absolute;
-        top: 298px;
-        right: 604px;
-        width: 257px; 
-        background-color: rgb(54, 163, 163);
-        font-family: Georgia, 'Times New Roman', Times, serif; 
-        color: white; 
-        font-size: 18px; 
-    }
+    position: relative;
+     top: 195px;
+     right: 0px; 
+     width: 243px; 
+     padding: 8px; 
+     background-color: rgb(54, 163, 163);
+     font-family: Georgia, 'Times New Roman', Times, serif; 
+     color: white; 
+     font-size: 18px; 
+}
 
 #banner3{
-        
-            position: absolute;
-            top:532px;
-            left: 174px; 
-             width: 257px; 
-            background-color: rgb(54, 163, 163);
-            font-family: Georgia, 'Times New Roman', Times, serif; 
-            color: white; 
-            font-size: 18px; }
-            
+    position: relative;
+    right: 257px; 
+    float: left;  
+    top: 120px; 
+     width: 243px;  
+     padding: 8px; 
+     background-color: rgb(54, 163, 163);
+     font-family: Georgia, 'Times New Roman', Times, serif; 
+     color: white; 
+     font-size: 18px;
+      
+}
 #banner4{
-        
-            position: absolute;
-            top:532px;
-            right: 605px; 
-             width: 257px; 
-            background-color: rgb(54, 163, 163);
-            font-family: Georgia, 'Times New Roman', Times, serif; 
-            color: white; 
-            font-size: 18px; }
-
+    position: relative;
+    right: 257px; 
+    float: right;  
+    top: 120px; 
+     width: 243px;  
+     padding: 8px; 
+     background-color: rgb(54, 163, 163);
+     font-family: Georgia, 'Times New Roman', Times, serif; 
+     color: white; 
+     font-size: 18px;
+}
 
 #banner5{
-        
-                position: absolute;
-                bottom: -200px;
-                left: 174px; 
-                 width: 257px; 
-                background-color: rgb(54, 163, 163);
-                font-family: Georgia, 'Times New Roman', Times, serif; 
-                color: white; 
-                font-size: 18px; }
-              
+    position: relative;
+    right: 0px; 
+    float: right;  
+    bottom: 233px; 
+     width: 243px;  
+     padding: 8px; 
+     background-color: rgb(54, 163, 163);
+     font-family: Georgia, 'Times New Roman', Times, serif; 
+     color: white; 
+     font-size: 18px;
 
-
+}
 
 h3{
     color:#4aaaa5; 
@@ -191,12 +212,13 @@ h3{
 }
 
 #paragraph{
-    
+    clear: both; 
     line-height: 1.5;
-    text-align: left; 
+   text-align:left; 
 }
 
 #alignright{
+    
 float:right;
     background-color:white;
    margin-right: 55px;
@@ -254,13 +276,6 @@ button{
     margin: 5px; 
 
 }
-@media only screen and (max-width: 500px) {
-    body {
-        background-color: rgb(117, 37, 97);
-
-
- 
-
 
 
  
