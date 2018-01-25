@@ -91,7 +91,7 @@ h2{
         
         position: absolute;
         top: 298px;
-        right: 588px;
+        right: 604px;
         width: 257px; 
         background-color: rgb(54, 163, 163);
         font-family: Georgia, 'Times New Roman', Times, serif; 
@@ -114,7 +114,7 @@ h2{
         
             position: absolute;
             top:532px;
-            right: 589px; 
+            right: 605px; 
              width: 257px; 
             background-color: rgb(54, 163, 163);
             font-family: Georgia, 'Times New Roman', Times, serif; 
@@ -125,7 +125,7 @@ h2{
 #banner5{
         
                 position: absolute;
-                bottom: -230px;
+                bottom: -200px;
                 left: 174px; 
                  width: 257px; 
                 background-color: rgb(54, 163, 163);
@@ -253,7 +253,9 @@ button{
     margin: 5px; 
 
 }
- 
+@media only screen and (max-width: 500px) {
+    body {
+        background-color: rgb(117, 37, 97);
 
 
  
