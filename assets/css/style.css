@@ -51,7 +51,8 @@ h2{
     #third{float:left}
 
 #image1{
-    padding: 1px:
+    padding: 1px;
+    float:right; 
 }
 
 #image2{
@@ -62,7 +63,7 @@ h2{
 }
 #image3{
     margin: 25px;
-    float: left; 
+    float: right; 
     position: relative;
     left: -18px; 
 
